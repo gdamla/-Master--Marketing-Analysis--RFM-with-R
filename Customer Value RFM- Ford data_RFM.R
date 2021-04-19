@@ -1,5 +1,5 @@
 # FORD DATA / RFM
-# Gülhan Damla Aþýk - 2000136
+# GÃ¼lhan Damla AÅŸÄ±k - 2000136
 
 # RFM helps to identify customers who are more likely to respond to promotions 
 # by segmenting them into various categories.
